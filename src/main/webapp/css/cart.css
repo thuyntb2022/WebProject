@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+* {
+	box-sizing: border-box
+}
+
+th, td {
+	border: solid 1px #607db8;
+	padding: 20px;
+}
+
+input {
+	margin: 20px;
+}

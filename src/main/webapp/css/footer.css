@@ -1,0 +1,19 @@
+* {box-sizing: border-box;}
+
+.aboutcolumn, .contactcolumn {
+	display: inline-block;
+	width: 45%;
+}
+
+.footer {
+  background-color: rgb(250, 69, 120);
+  padding-left: 40px;
+  color: white;
+}
+
+@media screen and (max-width: 800px) {
+.aboutcolumn, .contactcolumn {
+	width: 100%;
+	padding: 0;
+	}
+}

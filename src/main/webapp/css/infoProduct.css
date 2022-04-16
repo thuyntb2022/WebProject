@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+* {
+	box-sizing: border-box
+}
+body {
+	color: blue;
+	padding: 20px;
+}
+
+input {
+	background-color: #ff80c0;
+	
+}

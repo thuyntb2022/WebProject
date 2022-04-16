@@ -1,0 +1,56 @@
+* {box-sizing: border-box}
+body .img-bg{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+body .noi-dung .form .input-form{
+     margin-bottom: 20px;
+ }
+body .noi-dung .form .input-form span{
+     font-size: 16px;
+     margin-bottom: 5px;
+     display: inline-block;
+     color: #607db8;
+     letter-spacing: 1px;
+      }
+body .noi-dung .form .input-form input{
+     width: 100%;
+     padding: 10px 20px;
+     outline: none;
+     border: 1px solid #607d8b;
+     font-size: 16px;
+     letter-spacing: 1px;
+     color: #607d8b;
+     background: transparent;
+    
+     }
+ body .noi-dung .form .input-form input[type="submit"]{
+     background: #ff4584;
+     color: #fff;
+     outline: none;
+     border: none;
+     font-weight: 500;
+     cursor: pointer;
+     box-shadow: 0 1px 1px rgba(0,0,0,0.12),
+                0 2px 2px rgba(0,0,0,0.12),
+                0 4px 4px rgba(0,0,0,0.12),
+               0 8px 8px rgba(0,0,0,0.12),
+               0 16px 16px rgba(0,0,0,0.12);
+ }
+body .noi-dung .form .input-form input[type="submit"]:hover{
+     background: #f53677;
+ }
+ body .noi-dung .form .nho-dang-nhap{
+     margin-bottom: 10px;
+     color: #607d8b;
+     font-size: 14px;
+ }
+ body .noi-dung .form .input-form p{
+     color: #607d8b;
+ }
+body .noi-dung .form .input-form p a{
+     color: #ff4584;
+ }
+ 
